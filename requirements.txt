@@ -1,2 +1,5 @@
+
+uuid
+
+pytest
 flask
-waitress
